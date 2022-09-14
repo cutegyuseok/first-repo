@@ -20,7 +20,7 @@ $ pip install -r requirements.txt
 ## How to start
 
 ```shell
-$ pythin main.py
+$ pythin server.py
 ```
 
 ## Feature
