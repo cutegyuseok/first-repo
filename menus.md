@@ -2,11 +2,11 @@
 
 1.chicken
 2.pizza
-3.kimchi
+3.steak
 
 ## new candidates
 
-4.bibimbob
+4.sandwitch
 
 
 
